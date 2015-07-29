@@ -1,2 +1,2 @@
 # mosfrepo
-my projects
+Transmission wraper library
